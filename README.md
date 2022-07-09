@@ -1,5 +1,14 @@
 # DHAUZTestApi
 
+Utilizado um banco de dados do SQL Server local. 
+
+Caso não seja possível testar com um banco de de dados local ou não queira, é possível testar descomentando a linha no program.cs:
+  builder.Services.AddDbContext<MovieDbContext>(options => options.UseInMemoryDatabase("MoviesDb"));
+E comentar a linha:
+  builder.Services.AddDbContext<MovieDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("MoviesConnectionString")));
+Fazer isso irá fazer com que os dados sejam salvos in memory, permitindo testar as chamadas da api mesmo sem um banco de dados local.
+
+
 Endpoints criados:
 
 - api/Movies/GetAll

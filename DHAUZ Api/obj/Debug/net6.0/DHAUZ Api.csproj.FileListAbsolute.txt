@@ -1,0 +1,33 @@
+C:\Users\Lenan\source\repos\DHAUZ Api\DHAUZ Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lenan\source\repos\DHAUZ Api\DHAUZ Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Lenan\source\repos\DHAUZ Api\DHAUZ Api\bin\Debug\net6.0\DHAUZ Api.exe
+C:\Users\Lenan\source\repos\DHAUZ Api\DHAUZ Api\bin\Debug\net6.0\DHAUZ Api.deps.json
+C:\Users\Lenan\source\repos\DHAUZ Api\DHAUZ Api\bin\Debug\net6.0\DHAUZ Api.runtimeconfig.json
+C:\Users\Lenan\source\repos\DHAUZ Api\DHAUZ Api\bin\Debug\net6.0\DHAUZ Api.dll
+C:\Users\Lenan\source\repos\DHAUZ Api\DHAUZ Api\bin\Debug\net6.0\DHAUZ Api.pdb
+C:\Users\Lenan\source\repos\DHAUZ Api\DHAUZ Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenan\source\repos\DHAUZ Api\DHAUZ Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenan\source\repos\DHAUZ Api\DHAUZ Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Lenan\source\repos\DHAUZ Api\DHAUZ Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lenan\source\repos\DHAUZ Api\DHAUZ Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Lenan\source\repos\DHAUZ Api\DHAUZ Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lenan\source\repos\DHAUZ Api\DHAUZ Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lenan\source\repos\DHAUZ Api\DHAUZ Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lenan\source\repos\DHAUZ Api\DHAUZ Api\obj\Debug\net6.0\DHAUZ Api.csproj.AssemblyReference.cache
+C:\Users\Lenan\source\repos\DHAUZ Api\DHAUZ Api\obj\Debug\net6.0\DHAUZ Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenan\source\repos\DHAUZ Api\DHAUZ Api\obj\Debug\net6.0\DHAUZ Api.AssemblyInfoInputs.cache
+C:\Users\Lenan\source\repos\DHAUZ Api\DHAUZ Api\obj\Debug\net6.0\DHAUZ Api.AssemblyInfo.cs
+C:\Users\Lenan\source\repos\DHAUZ Api\DHAUZ Api\obj\Debug\net6.0\DHAUZ Api.csproj.CoreCompileInputs.cache
+C:\Users\Lenan\source\repos\DHAUZ Api\DHAUZ Api\obj\Debug\net6.0\DHAUZ Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenan\source\repos\DHAUZ Api\DHAUZ Api\obj\Debug\net6.0\DHAUZ Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenan\source\repos\DHAUZ Api\DHAUZ Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lenan\source\repos\DHAUZ Api\DHAUZ Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lenan\source\repos\DHAUZ Api\DHAUZ Api\obj\Debug\net6.0\scopedcss\bundle\DHAUZ Api.styles.css
+C:\Users\Lenan\source\repos\DHAUZ Api\DHAUZ Api\obj\Debug\net6.0\DHAUZ Api.csproj.CopyComplete
+C:\Users\Lenan\source\repos\DHAUZ Api\DHAUZ Api\obj\Debug\net6.0\DHAUZ Api.dll
+C:\Users\Lenan\source\repos\DHAUZ Api\DHAUZ Api\obj\Debug\net6.0\refint\DHAUZ Api.dll
+C:\Users\Lenan\source\repos\DHAUZ Api\DHAUZ Api\obj\Debug\net6.0\DHAUZ Api.pdb
+C:\Users\Lenan\source\repos\DHAUZ Api\DHAUZ Api\obj\Debug\net6.0\DHAUZ Api.genruntimeconfig.cache
+C:\Users\Lenan\source\repos\DHAUZ Api\DHAUZ Api\obj\Debug\net6.0\ref\DHAUZ Api.dll
+C:\Users\Lenan\source\repos\DHAUZ Api\DHAUZ Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Lenan\source\repos\DHAUZ Api\DHAUZ Api\bin\Debug\net6.0\RestSharp.dll

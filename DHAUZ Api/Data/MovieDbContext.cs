@@ -9,6 +9,6 @@ namespace DHAUZ_Api.Data
         {
         }
 
-        public DbSet<MovieVM> property { get; set; }
+        public DbSet<MovieVM> Movies { get; set; }
     }
 }

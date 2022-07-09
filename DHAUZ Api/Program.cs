@@ -10,7 +10,10 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddDbContext<MovieDbContext>(options => options.UseInMemoryDatabase("MoviesDb"));
+//In memory Test
+//builder.Services.AddDbContext<MovieDbContext>(options => options.UseInMemoryDatabase("MoviesDb"));
+//SQL Database
+builder.Services.AddDbContext<MovieDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("MoviesConnectionString")));
 
 var app = builder.Build();
 
